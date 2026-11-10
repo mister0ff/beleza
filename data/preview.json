@@ -1,0 +1,253 @@
+{
+ "titles": [
+  {
+   "t": "Bem-vinda ao seu momento",
+   "i": "🌸"
+  },
+  {
+   "t": "Sumário",
+   "i": "📖"
+  },
+  {
+   "t": "Anatomia da pele em 1 minuto",
+   "i": "🧬"
+  },
+  {
+   "t": "Descubra o seu tipo de pele",
+   "i": "🔍"
+  },
+  {
+   "t": "Fototipos: o que o sol faz na sua pele",
+   "i": "🌍"
+  },
+  {
+   "t": "Limpeza que respeita",
+   "i": "💧"
+  },
+  {
+   "t": "Dupla limpeza (double cleansing)",
+   "i": "🧼"
+  },
+  {
+   "t": "Hidratação: água, maciez e proteção",
+   "i": "🧴"
+  },
+  {
+   "t": "Protetor solar: o anti-idade nº 1",
+   "i": "☀️"
+  },
+  {
+   "t": "Esfoliação sem agressão",
+   "i": "✨"
+  },
+  {
+   "t": "Vitamina C: a luz da manhã",
+   "i": "🍊"
+  },
+  {
+   "t": "Niacinamida: a coringa",
+   "i": "🔬"
+  },
+  {
+   "t": "Retinoides: renovação celular",
+   "i": "🌙"
+  },
+  {
+   "t": "Ácido hialurônico",
+   "i": "💦"
+  },
+  {
+   "t": "Ácidos: AHA, BHA e PHA",
+   "i": "🧪"
+  },
+  {
+   "t": "Cuidados com a área dos olhos",
+   "i": "👁️"
+  },
+  {
+   "t": "Olheiras: por que aparecem?",
+   "i": "🌑"
+  },
+  {
+   "t": "Lábios macios",
+   "i": "💋"
+  },
+  {
+   "t": "Pescoço e colo",
+   "i": "🦢"
+  },
+  {
+   "t": "Máscara de argila",
+   "i": "🏺"
+  },
+  {
+   "t": "Máscara de aveia e mel",
+   "i": "🥣"
+  },
+  {
+   "t": "Máscara de iogurte natural",
+   "i": "🥛"
+  },
+  {
+   "t": "Máscara de banana e abacate",
+   "i": "🥑"
+  },
+  {
+   "t": "Compressa calmante de camomila",
+   "i": "🌼"
+  },
+  {
+   "t": "O que NÃO passar no rosto",
+   "i": "🚫"
+  },
+  {
+   "t": "Teste de sensibilidade",
+   "i": "🧷"
+  },
+  {
+   "t": "Acne: o que realmente funciona",
+   "i": "🌿"
+  },
+  {
+   "t": "Manchas e melasma",
+   "i": "🟤"
+  },
+  {
+   "t": "Poros: verdades e mitos",
+   "i": "🕳️"
+  },
+  {
+   "t": "Barreira cutânea: a base de tudo",
+   "i": "🛡️"
+  },
+  {
+   "t": "Rotina da manhã",
+   "i": "🌞"
+  },
+  {
+   "t": "Rotina da noite",
+   "i": "🌜"
+  },
+  {
+   "t": "Rotina ideal para cada tipo de pele",
+   "i": "📋"
+  },
+  {
+   "t": "Massagem facial com Gua Sha",
+   "i": "🪨"
+  },
+  {
+   "t": "Rolo de jade e gelo",
+   "i": "💚"
+  },
+  {
+   "t": "Yoga facial: funciona?",
+   "i": "🧘"
+  },
+  {
+   "t": "Alimentação e pele",
+   "i": "🥗"
+  },
+  {
+   "t": "Água e a pele",
+   "i": "💧"
+  },
+  {
+   "t": "Sono e beleza",
+   "i": "😴"
+  },
+  {
+   "t": "Estresse, cortisol e pele",
+   "i": "🧠"
+  },
+  {
+   "t": "Maquiagem e higiene",
+   "i": "💄"
+  },
+  {
+   "t": "Cuidados em cada fase da vida",
+   "i": "🎀"
+  },
+  {
+   "t": "10 curiosidades sobre a pele",
+   "i": "💡"
+  },
+  {
+   "t": "Quando procurar o dermatologista",
+   "i": "🩺"
+  },
+  {
+   "t": "Plano de 30 dias",
+   "i": "📅"
+  },
+  {
+   "t": "O ritual do amor-próprio",
+   "i": "💖"
+  }
+ ],
+ "pages": [
+  {
+   "i": "🌸",
+   "t": "Bem-vinda ao seu momento",
+   "a": "leaves",
+   "b": [
+    "Cuidar da pele do rosto não precisa ser caro, nem complicado. Este e-book reúne <strong>informações baseadas no consenso dermatológico</strong>, rotinas simples, receitas caseiras seguras e muitas curiosidades para você entender o que está fazendo — e por quê.",
+    "Ao longo das páginas você vai ver o símbolo <strong>🧪 Receita caseira</strong>, o quadro roxo <strong>💡 Você sabia?</strong> e o quadro laranja <strong>⚠️ Atenção</strong>, que mostra os erros mais comuns."
+   ],
+   "warn": [
+    "Aviso importante",
+    "Este material é educativo e não substitui o dermatologista. Pele com acne intensa, manchas que mudam, feridas que não cicatrizam ou qualquer dúvida merecem avaliação profissional."
+   ],
+   "tip": [
+    "Como usar",
+    "Toque em ☰ para o sumário, em A+ para aumentar a letra e arraste a página para o lado para virar."
+   ]
+  },
+  {
+   "i": "📖",
+   "t": "Sumário",
+   "a": "mirror",
+   "toc": true
+  },
+  {
+   "i": "🧬",
+   "t": "Anatomia da pele em 1 minuto",
+   "a": "serum",
+   "b": [
+    "A pele tem três camadas: a <strong>epiderme</strong> (a mais externa, que você vê e toca), a <strong>derme</strong> (onde ficam colágeno, elastina e vasos sanguíneos) e a <strong>hipoderme</strong> (gordura que protege e amortece).",
+    "A camada mais externa da epiderme, o <strong>estrato córneo</strong>, funciona como um muro: células achatadas (os \"tijolos\") unidas por gorduras como as ceramidas (a \"argamassa\"). É essa barreira que mantém a água dentro e as agressões fora."
+   ],
+   "cur": "A pele é o maior órgão do corpo: no adulto cobre cerca de 2 m² e representa algo em torno de 15% do peso corporal. A epiderme se renova por completo, em média, a cada 4 semanas — e esse ciclo vai ficando mais lento com a idade."
+  },
+  {
+   "i": "🔍",
+   "t": "Descubra o seu tipo de pele",
+   "a": "mirror",
+   "b": [
+    "Lave o rosto com um sabonete suave, seque sem esfregar e <strong>não aplique nada por 1 hora</strong>. Depois observe:"
+   ],
+   "l": [
+    "<strong>Normal:</strong> confortável, sem brilho excessivo nem repuxamento.",
+    "<strong>Seca:</strong> repuxa, pode descamar e parece opaca.",
+    "<strong>Oleosa:</strong> brilho em todo o rosto, poros evidentes, tendência a cravos.",
+    "<strong>Mista:</strong> brilho na testa, nariz e queixo (zona T); bochechas normais ou secas.",
+    "<strong>Sensível:</strong> arde, avermelha ou coça com facilidade — pode vir junto com qualquer tipo acima."
+   ],
+   "rec": {
+    "n": "Teste do lenço de papel",
+    "ing": [
+     "1 lenço de papel fino (ou papel de seda)"
+    ],
+    "pre": [
+     "Ao acordar, sem produtos no rosto, pressione o lenço na testa, nariz, bochechas e queixo.",
+     "Contra a luz: marcas de óleo em todas as áreas = oleosa; só na zona T = mista; nenhuma = normal ou seca."
+    ],
+    "av": "Seca (falta de óleo) é diferente de desidratada (falta de água): pele oleosa também pode estar desidratada."
+   },
+   "tip": [
+    "Lembrete",
+    "O tipo de pele muda com clima, idade, hormônios e produtos. Reavalie a cada estação."
+   ]
+  }
+ ]
+}
